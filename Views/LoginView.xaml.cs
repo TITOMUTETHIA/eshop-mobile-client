@@ -50,12 +50,12 @@ public partial class LoginView : ContentPageBase
         {
             while (_animate)
             {
-                await uiElement.ScaleTo(1.05, duration, Easing.SinInOut);
+                await uiElement.ScaleToAsync(1.05, duration, Easing.SinInOut);
                 await Task.WhenAll(
-                    uiElement.FadeTo(1, duration, Easing.SinInOut),
-                    uiElement.LayoutTo(new Rect(new Point(0, 0), new Size(uiElement.Width, uiElement.Height))),
-                    uiElement.FadeTo(.9, duration, Easing.SinInOut),
-                    uiElement.ScaleTo(1.15, duration, Easing.SinInOut)
+                    uiElement.FadeToAsync(1, duration, Easing.SinInOut),
+                    Task.CompletedTask,
+                    uiElement.FadeToAsync(.9, duration, Easing.SinInOut),
+                    uiElement.ScaleToAsync(1.15, duration, Easing.SinInOut)
                 );
             }
         }
