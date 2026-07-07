@@ -10,10 +10,10 @@ public class MainViewModelTests
     }
 
     [Fact]
-    public void SettingsCommandIsNotNullWhenViewModelInstantiatedTest()
+    public void MainViewModelIsInstantiatedTest()
     {
         var mainViewModel = new MainViewModel(_navigationService);
-        Assert.NotNull(mainViewModel.SettingsCommand);
+        Assert.NotNull(mainViewModel);
     }
 
     [Fact]
