@@ -23,8 +23,8 @@ public partial class CatalogView : ContentPageBase
                     await recipient.Dispatcher.DispatchAsync(
                         async () =>
                         {
-                            await recipient.badge.ScaleTo(1.2);
-                            await recipient.badge.ScaleTo(1.0);
+                            await recipient.badge.ScaleToAsync(1.2);
+                            await recipient.badge.ScaleToAsync(1.0);
                         });
                 });
     }

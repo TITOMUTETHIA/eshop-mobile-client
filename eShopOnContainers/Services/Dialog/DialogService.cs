@@ -4,6 +4,8 @@ public class DialogService : IDialogService
 {
     public Task ShowAlertAsync(string message, string title, string buttonLabel)
     {
-        return Application.Current.MainPage.DisplayAlert(title, message, buttonLabel);
+        var page = Application.Current?.Windows.Count > 0 ? Application.Current.Windows[0].Page : null;
+
+        return page?.DisplayAlertAsync(title, message, buttonLabel) ?? Task.CompletedTask;
     }
 }

@@ -30,8 +30,11 @@ public partial class App : Application
         InitializeComponent();
 
         InitApp();
+    }
 
-        MainPage = new AppShell(navigationService);
+    protected override Window CreateWindow(IActivationState? activationState)
+    {
+        return new Window(new AppShell(_navigationService));
     }
 
     private void InitApp()
@@ -82,9 +85,10 @@ public partial class App : Application
 
     void SetStatusBar()
     {
-        var nav = Current.MainPage as NavigationPage;
+        var rootPage = Current?.Windows.Count > 0 ? Current.Windows[0].Page : null;
+        var nav = rootPage as NavigationPage;
 
-        if (Current.RequestedTheme == AppTheme.Dark)
+        if (Current?.RequestedTheme == AppTheme.Dark)
         {
             _theme?.SetStatusBarColor(Colors.Black, false);
             if (nav != null)
