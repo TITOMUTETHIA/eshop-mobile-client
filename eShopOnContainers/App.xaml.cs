@@ -101,7 +101,7 @@ public partial class App : Application
         RequestedThemeChanged += App_RequestedThemeChanged;
     }
 
-    private void App_RequestedThemeChanged(object sender, AppThemeChangedEventArgs e)
+    private void App_RequestedThemeChanged(object? sender, AppThemeChangedEventArgs e)
     {
         Dispatcher.Dispatch(() => SetStatusBar());
     }
