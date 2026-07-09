@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿#nullable enable
+
+using System.Diagnostics;
 using System.Globalization;
 using eShopOnContainers.Services;
 using eShopOnContainers.Services.AppEnvironment;
