@@ -63,14 +63,14 @@
                             Style="{StaticResource CartTotalStyle}"
                             Text="TOTAL"
                             TextColor="{AppThemeBinding Dark={StaticResource DarkFontColor}, Light={StaticResource LightFontColor}}"
-                            HorizontalOptions="EndAndExpand"
-                            VerticalOptions="CenterAndExpand" />
+                            HorizontalOptions="End"
+                            VerticalOptions="Center" />
                         <Label
                             Style="{StaticResource CartTotalStyle}"
                             Text="{Binding Total, StringFormat='${0:N}'}"
                             TextColor="{StaticResource GreenColor}"
                             HorizontalOptions="End"
-                            VerticalOptions="CenterAndExpand" />
+                            VerticalOptions="Center" />
                     </HorizontalStackLayout>
                 </CollectionView.Footer>
             </CollectionView>
