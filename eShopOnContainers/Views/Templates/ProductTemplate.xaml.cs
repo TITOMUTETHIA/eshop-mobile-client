@@ -4,6 +4,6 @@ public partial class ProductTemplate : ContentView
 {
     public ProductTemplate()
     {
-        InitializeComponent();
+        // InitializeComponent();
     }
 }
