@@ -15,7 +15,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
 
-            <Style x:Key="CampaignsListStyle" TargetType="{x:Type ListView}">
+            <Style x:Key="CampaignsListStyle" TargetType="{x:Type CollectionView}">
                 <Setter Property="RowHeight" Value="400" />
                 <Setter Property="VerticalOptions" Value="Center" />
                 <Setter Property="Margin" Value="0" />
