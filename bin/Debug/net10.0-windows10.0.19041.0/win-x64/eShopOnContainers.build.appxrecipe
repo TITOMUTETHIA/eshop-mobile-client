@@ -10,259 +10,259 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>9a85b8a9-4da5-4a12-8e7f-43c05ab266d6</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\eShopOnContainers.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\eShopOnContainers.runtimeconfig.json">
       <PackagePath>eShopOnContainers.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\eShopOnContainers.dll">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\eShopOnContainers.dll">
       <PackagePath>eShopOnContainers.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>eShopOnContainers.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Font_Awesome_5_Free-Regular-400.otf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Font_Awesome_5_Free-Regular-400.otf">
       <PackagePath>Font_Awesome_5_Free-Regular-400.otf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Font_Awesome_5_Free-Solid-900.otf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Font_Awesome_5_Free-Solid-900.otf">
       <PackagePath>Font_Awesome_5_Free-Solid-900.otf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Montserrat-Bold.ttf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Montserrat-Bold.ttf">
       <PackagePath>Montserrat-Bold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Montserrat-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\Montserrat-Regular.ttf">
       <PackagePath>Montserrat-Regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\SourceSansPro-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\f\SourceSansPro-Regular.ttf">
       <PackagePath>SourceSansPro-Regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\banner.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\banner.scale-100.png">
       <PackagePath>banner.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\default_campaign.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\default_campaign.scale-100.png">
       <PackagePath>default_campaign.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\default_product.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\default_product.scale-100.png">
       <PackagePath>default_product.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\eshop_logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\eshop_logo.scale-100.png">
       <PackagePath>eshop_logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_campaign_01.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_campaign_01.scale-100.png">
       <PackagePath>fake_campaign_01.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_campaign_02.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_campaign_02.scale-100.png">
       <PackagePath>fake_campaign_02.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_01.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_01.scale-100.png">
       <PackagePath>fake_product_01.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_02.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_02.scale-100.png">
       <PackagePath>fake_product_02.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_03.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_03.scale-100.png">
       <PackagePath>fake_product_03.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_04.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_04.scale-100.png">
       <PackagePath>fake_product_04.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_05.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\fake_product_05.scale-100.png">
       <PackagePath>fake_product_05.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\noimage.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\obj\Debug\net10.0-windows10.0.19041.0\win-x64\resizetizer\r\noimage.scale-100.png">
       <PackagePath>noimage.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ADMIN\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
@@ -607,7 +607,7 @@
     <AppxPackagedFile Include="C:\Users\ADMIN\.nuget\packages\microsoft.web.webview2\1.0.3179.45\lib_manual\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eshopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\eShopOnContainers.deps.json">
+    <AppxPackagedFile Include="C:\Users\ADMIN\OneDrive - Chrome Partners\Desktop\tito\EshopClient\eshop-mobile-client\eShopOnContainers\bin\Debug\net10.0-windows10.0.19041.0\win-x64\eShopOnContainers.deps.json">
       <PackagePath>eShopOnContainers.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ADMIN\.nuget\packages\microsoft.maui.controls.compatibility\10.0.0\lib\net10.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
