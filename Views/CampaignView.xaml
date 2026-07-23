@@ -15,8 +15,8 @@
     <ContentPage.Resources>
         <ResourceDictionary>
 
-            <Style x:Key="CampaignsListStyle" TargetType="{x:Type ListView}">
-                <Setter Property="RowHeight" Value="400" />
+            <Style x:Key="CampaignsListStyle" TargetType="{x:Type CollectionView}">
+                <Setter Property="Height" Value="400" />
                 <Setter Property="VerticalOptions" Value="Center" />
                 <Setter Property="Margin" Value="0" />
             </Style>
@@ -70,7 +70,7 @@
             IsRunning="{Binding IsBusy}"
             IsVisible="{Binding IsBusy}"
             VerticalOptions="Center"
-            Color="{StaticResource LightGreenColor}">
+            Color="#FFF0FF22">
             <ActivityIndicator.WidthRequest>
                 <OnPlatform x:TypeArguments="x:Double">
                     <On Platform="iOS, Android" Value="100" />

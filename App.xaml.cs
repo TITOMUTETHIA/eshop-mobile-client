@@ -1,4 +1,6 @@
-﻿using System.Diagnostics;
+﻿#nullable enable
+
+using System.Diagnostics;
 using System.Globalization;
 using eShopOnContainers.Services;
 using eShopOnContainers.Services.AppEnvironment;
@@ -34,7 +36,28 @@ public partial class App : Application
 
     protected override Window CreateWindow(IActivationState? activationState)
     {
-        return new Window(new AppShell(_navigationService));
+        if (DeviceInfo.Platform == DevicePlatform.WinUI)
+        {
+            return new Window(new AppShell(_navigationService));
+        }
+
+        return new Window(new ContentPage
+        {
+            Content = new VerticalStackLayout
+            {
+                Padding = new Thickness(24),
+                VerticalOptions = LayoutOptions.Center,
+                Children =
+                {
+                    new Label
+                    {
+                        Text = "Windows view only",
+                        FontSize = 20,
+                        HorizontalOptions = LayoutOptions.Center
+                    }
+                }
+            }
+        });
     }
 
     private void InitApp()
@@ -78,7 +101,7 @@ public partial class App : Application
         RequestedThemeChanged += App_RequestedThemeChanged;
     }
 
-    private void App_RequestedThemeChanged(object sender, AppThemeChangedEventArgs e)
+    private void App_RequestedThemeChanged(object? sender, AppThemeChangedEventArgs e)
     {
         Dispatcher.Dispatch(() => SetStatusBar());
     }
